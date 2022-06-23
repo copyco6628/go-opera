@@ -3,11 +3,11 @@ package gossip
 import (
 	"errors"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/hash"
 
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
+	"github.com/copyco6628ra/inter/ibr"
+	"github.com/copyco6628ra/inter/ier"
+	"github.com/copyco6628ra/opera/genesis"
 )
 
 // ApplyGenesis writes initial state.

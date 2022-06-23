@@ -3,8 +3,8 @@ package genesisstore
 import (
 	"io"
 
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
+	"github.com/copyco6628/go-opera/logger"
+	"github.com/copyco6628/go-opera/opera/genesis"
 )
 
 const (

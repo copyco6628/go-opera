@@ -3,12 +3,12 @@ package epochcheck
 import (
 	"errors"
 
-	base "github.com/Fantom-foundation/lachesis-base/eventcheck/epochcheck"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	base "github.com/copyco6628/lachesis-base/eventcheck/epochcheck"
+	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/opera"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/opera"
 )
 
 var (

@@ -3,7 +3,7 @@ package epstreamleecher
 import (
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
 )
 
 type Config struct {

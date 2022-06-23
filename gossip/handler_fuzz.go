@@ -9,18 +9,18 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
+	"github.com/copyco6628/lachesis-base/utils/cachescale"
 	_ "github.com/dvyukov/go-fuzz/go-fuzz-defs"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/p2p"
 	"github.com/ethereum/go-ethereum/p2p/enode"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/integration/makefakegenesis"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/utils"
-	"github.com/Fantom-foundation/go-opera/utils/signers/gsignercache"
+	"github.com/copyco6628ra/evmcore"
+	"github.com/copyco6628ra/integration/makefakegenesis"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628ra/utils/signers/gsignercache"
 )
 
 const (

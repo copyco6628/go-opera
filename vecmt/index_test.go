@@ -3,13 +3,13 @@ package vecmt
 import (
 	"testing"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/memorydb"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628is-base/inter/dag"
+	"github.com/copyco6628is-base/inter/dag/tdag"
+	"github.com/copyco6628is-base/inter/pos"
+	"github.com/copyco6628is-base/kvdb/memorydb"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628ra/inter"
 )
 
 var (

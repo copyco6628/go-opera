@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/utils/datasemaphore"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628is-base/inter/dag"
+	"github.com/copyco6628is-base/inter/idx"
+	"github.com/copyco6628is-base/utils/datasemaphore"
 	mapset "github.com/deckarep/golang-set"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
@@ -17,11 +17,11 @@ import (
 	"github.com/ethereum/go-ethereum/p2p"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/blockrecords/brstream"
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/blockvotes/bvstream"
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/dag/dagstream"
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/epochpacks/epstream"
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628ra/gossip/protocols/blockrecords/brstream"
+	"github.com/copyco6628ra/gossip/protocols/blockvotes/bvstream"
+	"github.com/copyco6628ra/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628ra/gossip/protocols/epochpacks/epstream"
+	"github.com/copyco6628ra/inter"
 )
 
 var (

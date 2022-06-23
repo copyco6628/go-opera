@@ -10,10 +10,10 @@ import (
 	"path"
 	"testing"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/utils/ioread"
+	"github.com/copyco6628ra/utils/ioread"
 )
 
 type dropableFile struct {

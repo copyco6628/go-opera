@@ -1,12 +1,12 @@
 package gossip
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628is-base/inter/idx"
+	"github.com/copyco6628is-base/inter/pos"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628ra/inter"
 )
 
 const (

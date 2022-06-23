@@ -3,10 +3,10 @@ package iodb
 import (
 	"io"
 
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
+	"github.com/copyco6628is-base/kvdb"
 
-	"github.com/Fantom-foundation/go-opera/utils/ioread"
+	"github.com/copyco6628ra/utils/ioread"
 )
 
 func Write(writer io.Writer, it kvdb.Iterator) error {

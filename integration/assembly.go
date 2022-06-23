@@ -5,11 +5,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Fantom-foundation/lachesis-base/abft"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/flushable"
+	"github.com/copyco6628/lachesis-base/abft"
+	"github.com/copyco6628is-base/hash"
+	"github.com/copyco6628is-base/inter/idx"
+	"github.com/copyco6628is-base/kvdb"
+	"github.com/copyco6628is-base/kvdb/flushable"
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 	"github.com/ethereum/go-ethereum/cmd/utils"
@@ -18,10 +18,10 @@ import (
 	"github.com/ethereum/go-ethereum/metrics"
 	"github.com/status-im/keycard-go/hexutils"
 
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/utils/adapters/vecmt2dagidx"
-	"github.com/Fantom-foundation/go-opera/vecmt"
+	"github.com/copyco6628ra/gossip"
+	"github.com/copyco6628ra/opera/genesis"
+	"github.com/copyco6628ra/utils/adapters/vecmt2dagidx"
+	"github.com/copyco6628ra/vecmt"
 )
 
 var (

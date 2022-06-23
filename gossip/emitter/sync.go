@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/emitter/doublesign"
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/emitter/doublesign"
+	"github.com/copyco6628is-base/hash"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/utils/errlock"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/utils/errlock"
 )
 
 type syncStatus struct {

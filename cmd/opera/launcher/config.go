@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Fantom-foundation/lachesis-base/abft"
-	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
+	"github.com/copyco6628/lachesis-base/abft"
+	"github.com/copyco6628/lachesis-base/utils/cachescale"
 	"github.com/ethereum/go-ethereum/cmd/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
@@ -21,16 +21,16 @@ import (
 	"github.com/naoina/toml"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/gossip/gasprice"
-	"github.com/Fantom-foundation/go-opera/integration"
-	"github.com/Fantom-foundation/go-opera/integration/makefakegenesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
-	futils "github.com/Fantom-foundation/go-opera/utils"
-	"github.com/Fantom-foundation/go-opera/vecmt"
+	"github.com/copyco6628/go-opera/evmcore"
+	"github.com/copyco6628/go-opera/gossip"
+	"github.com/copyco6628/go-opera/gossip/emitter"
+	"github.com/copyco6628/go-opera/gossip/gasprice"
+	"github.com/copyco6628/go-opera/integration"
+	"github.com/copyco6628/go-opera/integration/makefakegenesis"
+	"github.com/copyco6628/go-opera/opera/genesis"
+	"github.com/copyco6628/go-opera/opera/genesisstore"
+	futils "github.com/copyco6628/go-opera/utils"
+	"github.com/copyco6628/go-opera/vecmt"
 )
 
 var (

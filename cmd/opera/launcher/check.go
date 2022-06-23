@@ -4,14 +4,14 @@ import (
 	"path"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/cmd/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/Fantom-foundation/go-opera/integration"
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628/go-opera/integration"
+	"github.com/copyco6628/go-opera/inter"
 )
 
 func checkEvm(ctx *cli.Context) error {

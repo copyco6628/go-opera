@@ -6,7 +6,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
+	"github.com/copyco6628/go-opera/inter/validatorpk"
 )
 
 var (

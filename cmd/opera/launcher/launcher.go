@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 	"github.com/ethereum/go-ethereum/cmd/utils"
@@ -21,19 +21,19 @@ import (
 
 	evmetrics "github.com/ethereum/go-ethereum/metrics"
 
-	"github.com/Fantom-foundation/go-opera/cmd/opera/launcher/metrics"
-	"github.com/Fantom-foundation/go-opera/cmd/opera/launcher/tracing"
-	"github.com/Fantom-foundation/go-opera/debug"
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/flags"
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/integration"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
-	"github.com/Fantom-foundation/go-opera/utils/errlock"
-	"github.com/Fantom-foundation/go-opera/valkeystore"
-	_ "github.com/Fantom-foundation/go-opera/version"
+	"github.com/copyco6628/go-opera/cmd/opera/launcher/metrics"
+	"github.com/copyco6628/go-opera/cmd/opera/launcher/tracing"
+	"github.com/copyco6628/go-opera/debug"
+	"github.com/copyco6628/go-opera/evmcore"
+	"github.com/copyco6628/go-opera/flags"
+	"github.com/copyco6628/go-opera/gossip"
+	"github.com/copyco6628/go-opera/gossip/emitter"
+	"github.com/copyco6628/go-opera/integration"
+	"github.com/copyco6628/go-opera/opera/genesis"
+	"github.com/copyco6628/go-opera/opera/genesisstore"
+	"github.com/copyco6628/go-opera/utils/errlock"
+	"github.com/copyco6628/go-opera/valkeystore"
+	_ "github.com/copyco6628/go-opera/version"
 )
 
 const (

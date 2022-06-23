@@ -4,12 +4,12 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/nokeyiserr"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
-	"github.com/Fantom-foundation/lachesis-base/utils/wlru"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628is-base/inter/idx"
+	"github.com/copyco6628is-base/kvdb"
+	"github.com/copyco6628is-base/kvdb/nokeyiserr"
+	"github.com/copyco6628is-base/kvdb/table"
+	"github.com/copyco6628is-base/utils/wlru"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/prque"
 	"github.com/ethereum/go-ethereum/core/rawdb"
@@ -20,12 +20,12 @@ import (
 	"github.com/ethereum/go-ethereum/trie"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/topicsdb"
-	"github.com/Fantom-foundation/go-opera/utils/adapters/kvdb2ethdb"
-	"github.com/Fantom-foundation/go-opera/utils/rlpstore"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/inter/iblockproc"
+	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628ra/topicsdb"
+	"github.com/copyco6628ra/utils/adapters/kvdb2ethdb"
+	"github.com/copyco6628ra/utils/rlpstore"
 )
 
 const nominalSize uint = 1

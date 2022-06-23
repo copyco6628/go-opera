@@ -4,12 +4,12 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628ra/inter"
 )
 
 // GetEvent returns Lachesis event by hash or short ID.

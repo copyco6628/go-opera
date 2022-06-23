@@ -1,12 +1,12 @@
 package vecmt
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/vecengine"
-	"github.com/Fantom-foundation/lachesis-base/vecfc"
+	"github.com/copyco6628/lachesis-base/inter/dag"
+	"github.com/copyco6628is-base/inter/idx"
+	"github.com/copyco6628is-base/vecengine"
+	"github.com/copyco6628is-base/vecfc"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628ra/inter"
 )
 
 type CreationTimer interface {

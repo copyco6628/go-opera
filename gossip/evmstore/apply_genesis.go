@@ -1,9 +1,9 @@
 package evmstore
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/kvdb"
 
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
+	"github.com/copyco6628ra/opera/genesis"
 )
 
 // ApplyGenesis writes initial state.

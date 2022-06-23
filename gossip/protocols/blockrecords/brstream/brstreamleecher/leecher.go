@@ -4,11 +4,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher"
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamleecher"
+	"github.com/copyco6628is-base/gossip/basestream/basestreamleecher/basepeerleecher"
+	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/blockrecords/brstream"
+	"github.com/copyco6628ra/gossip/protocols/blockrecords/brstream"
 )
 
 // Leecher is responsible for requesting BRs based on lexicographic BRs streams

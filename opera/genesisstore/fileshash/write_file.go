@@ -6,10 +6,10 @@ import (
 	hasher "hash"
 	"io"
 
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
+	"github.com/copyco6628/lachesis-base/hash"
 
-	"github.com/Fantom-foundation/go-opera/utils/ioread"
+	"github.com/copyco6628/go-opera/utils/ioread"
 )
 
 type TmpWriter interface {

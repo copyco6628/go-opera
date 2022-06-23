@@ -1,10 +1,10 @@
 package emitter
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/emitter/ancestor"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/emitter/ancestor"
+	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/utils/piecefunc"
+	"github.com/copyco6628ra/utils/piecefunc"
 )
 
 var (

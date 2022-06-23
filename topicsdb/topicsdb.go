@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628is-base/kvdb"
+	"github.com/copyco6628is-base/kvdb/table"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"

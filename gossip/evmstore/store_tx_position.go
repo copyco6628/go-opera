@@ -5,8 +5,8 @@ package evmstore
 */
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 )
 

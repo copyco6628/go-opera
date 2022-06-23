@@ -4,8 +4,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/leveldb"
+	"github.com/copyco6628/lachesis-base/kvdb"
+	"github.com/copyco6628is-base/kvdb/leveldb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/rawdb"
 	"github.com/syndtr/goleveldb/leveldb/opt"

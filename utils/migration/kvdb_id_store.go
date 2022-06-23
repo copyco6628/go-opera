@@ -1,7 +1,7 @@
 package migration
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/kvdb"
 	"github.com/ethereum/go-ethereum/log"
 )
 

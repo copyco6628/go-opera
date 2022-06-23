@@ -28,8 +28,8 @@ import (
 	"github.com/ethereum/go-ethereum/ethdb"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/opera"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628ra/opera"
 )
 
 // BlockGen creates blocks for testing.

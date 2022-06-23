@@ -33,9 +33,9 @@ import (
 	"github.com/ethereum/go-ethereum/trie"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore"
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore/evmpruner"
-	"github.com/Fantom-foundation/go-opera/integration"
+	"github.com/copyco6628/go-opera/gossip/evmstore"
+	"github.com/copyco6628/go-opera/gossip/evmstore/evmpruner"
+	"github.com/copyco6628/go-opera/integration"
 )
 
 var (

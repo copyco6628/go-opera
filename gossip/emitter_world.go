@@ -3,15 +3,15 @@ package gossip
 import (
 	"sync/atomic"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/utils/wgmutex"
-	"github.com/Fantom-foundation/go-opera/valkeystore"
-	"github.com/Fantom-foundation/go-opera/vecmt"
+	"github.com/copyco6628ra/gossip/emitter"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/utils/wgmutex"
+	"github.com/copyco6628ra/valkeystore"
+	"github.com/copyco6628ra/vecmt"
 )
 
 type emitterWorldProc struct {

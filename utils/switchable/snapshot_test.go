@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/memorydb"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
+	"github.com/copyco6628is-base/kvdb"
+	"github.com/copyco6628is-base/kvdb/memorydb"
 	"github.com/stretchr/testify/require"
 )
 

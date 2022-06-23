@@ -1,18 +1,18 @@
 package gossip
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
+	"github.com/copyco6628is-base/hash"
+	"github.com/copyco6628is-base/inter/idx"
+	"github.com/copyco6628is-base/inter/pos"
+	"github.com/copyco6628is-base/kvdb"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
-	"github.com/Fantom-foundation/go-opera/utils/bitmap"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/inter/ibr"
+	"github.com/copyco6628ra/inter/ier"
+	"github.com/copyco6628ra/utils/bitmap"
 )
 
 func (s *Store) SetBlockVotes(bvs inter.LlrSignedBlockVotes) {

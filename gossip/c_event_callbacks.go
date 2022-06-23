@@ -5,18 +5,18 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/dagprocessor"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/gossip/dagprocessor"
+	"github.com/copyco6628is-base/hash"
+	"github.com/copyco6628is-base/inter/dag"
+	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck"
-	"github.com/Fantom-foundation/go-opera/eventcheck/epochcheck"
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
-	"github.com/Fantom-foundation/go-opera/utils/concurrent"
+	"github.com/copyco6628ra/eventcheck"
+	"github.com/copyco6628ra/eventcheck/epochcheck"
+	"github.com/copyco6628ra/gossip/emitter"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/inter/iblockproc"
+	"github.com/copyco6628ra/utils/concurrent"
 )
 
 var (

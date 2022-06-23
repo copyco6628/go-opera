@@ -8,13 +8,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/gossip/contract/ballot"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/copyco6628ra/gossip/contract/ballot"
+	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628ra/utils"
 )
 
 func BenchmarkBallotTxsProcessing(b *testing.B) {

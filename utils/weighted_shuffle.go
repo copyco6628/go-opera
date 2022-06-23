@@ -3,9 +3,9 @@ package utils
 import (
 	"crypto/sha256"
 
-	"github.com/Fantom-foundation/lachesis-base/common/littleendian"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/copyco6628/lachesis-base/common/littleendian"
+	"github.com/copyco6628is-base/hash"
+	"github.com/copyco6628is-base/inter/pos"
 )
 
 type weightedShuffleNode struct {

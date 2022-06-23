@@ -5,20 +5,20 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/flushable"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/memorydb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
-	"github.com/Fantom-foundation/lachesis-base/utils/wlru"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
+	"github.com/copyco6628is-base/kvdb"
+	"github.com/copyco6628is-base/kvdb/flushable"
+	"github.com/copyco6628is-base/kvdb/memorydb"
+	"github.com/copyco6628is-base/kvdb/table"
+	"github.com/copyco6628is-base/utils/wlru"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils/adapters/snap2kvdb"
-	"github.com/Fantom-foundation/go-opera/utils/rlpstore"
-	"github.com/Fantom-foundation/go-opera/utils/switchable"
+	"github.com/copyco6628ra/gossip/evmstore"
+	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628ra/utils/adapters/snap2kvdb"
+	"github.com/copyco6628ra/utils/rlpstore"
+	"github.com/copyco6628ra/utils/switchable"
 )
 
 // Store is a node persistent storage working over physical key-value database.

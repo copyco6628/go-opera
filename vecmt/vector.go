@@ -3,10 +3,10 @@ package vecmt
 import (
 	"encoding/binary"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/vecfc"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628is-base/vecfc"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628ra/inter"
 )
 
 /*

@@ -5,21 +5,21 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/state"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/Fantom-foundation/go-opera/gossip/blockproc"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/drivertype"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driver"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driver/drivercall"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driver/driverpos"
+	"github.com/copyco6628ra/gossip/blockproc"
+	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628ra/inter/drivertype"
+	"github.com/copyco6628ra/inter/iblockproc"
+	"github.com/copyco6628ra/inter/validatorpk"
+	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628ra/opera/contracts/driver"
+	"github.com/copyco6628ra/opera/contracts/driver/drivercall"
+	"github.com/copyco6628ra/opera/contracts/driver/driverpos"
 )
 
 const (
