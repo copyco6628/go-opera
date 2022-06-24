@@ -13,7 +13,7 @@ import (
 	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/utils/ioread"
+	"github.com/copyco6628/utils/ioread"
 )
 
 type dropableFile struct {

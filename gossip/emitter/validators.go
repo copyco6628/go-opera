@@ -6,7 +6,7 @@ import (
 	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/copyco6628is-base/inter/pos"
 
-	"github.com/copyco6628ra/utils/piecefunc"
+	"github.com/copyco6628/utils/piecefunc"
 )
 
 const (

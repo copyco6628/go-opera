@@ -5,8 +5,8 @@ import (
 
 	base "github.com/copyco6628/lachesis-base/eventcheck"
 
-	"github.com/copyco6628ra/eventcheck/epochcheck"
-	"github.com/copyco6628ra/eventcheck/heavycheck"
+	"github.com/copyco6628/eventcheck/epochcheck"
+	"github.com/copyco6628/eventcheck/heavycheck"
 )
 
 var (

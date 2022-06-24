@@ -14,11 +14,11 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/copyco6628ra/gossip"
-	"github.com/copyco6628ra/integration/makefakegenesis"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils"
-	"github.com/copyco6628ra/vecmt"
+	"github.com/copyco6628/gossip"
+	"github.com/copyco6628/integration/makefakegenesis"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils"
+	"github.com/copyco6628/vecmt"
 )
 
 func BenchmarkFlushDBs(b *testing.B) {

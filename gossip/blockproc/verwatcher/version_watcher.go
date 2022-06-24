@@ -9,9 +9,9 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 
 	"github.com/copyco6628/go-opera/logger"
-	"github.com/copyco6628ra/opera/contracts/driver"
-	"github.com/copyco6628ra/opera/contracts/driver/driverpos"
-	"github.com/copyco6628ra/version"
+	"github.com/copyco6628/opera/contracts/driver"
+	"github.com/copyco6628/opera/contracts/driver/driverpos"
+	"github.com/copyco6628/version"
 )
 
 type VerWarcher struct {

@@ -6,10 +6,10 @@ import (
 	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/copyco6628is-base/inter/pos"
 
-	"github.com/copyco6628ra/eventcheck/gaspowercheck"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/validatorpk"
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/eventcheck/gaspowercheck"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/validatorpk"
+	"github.com/copyco6628/opera"
 )
 
 // GasPowerCheckReader is a helper to run gas power check

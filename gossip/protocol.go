@@ -6,10 +6,10 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/copyco6628ra/gossip/emitter"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/ibr"
-	"github.com/copyco6628ra/inter/iep"
+	"github.com/copyco6628/gossip/emitter"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/ibr"
+	"github.com/copyco6628/inter/iep"
 )
 
 // Constants to match up protocol versions and messages

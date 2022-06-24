@@ -10,7 +10,7 @@ import (
 	"github.com/copyco6628is-base/inter/dag"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628/gossip/protocols/dag/dagstream"
 )
 
 // Leecher is responsible for requesting events based on lexicographic event streams

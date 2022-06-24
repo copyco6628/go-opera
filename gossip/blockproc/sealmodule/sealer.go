@@ -7,8 +7,8 @@ import (
 	"github.com/copyco6628is-base/inter/pos"
 	"github.com/copyco6628is-base/lachesis"
 
-	"github.com/copyco6628ra/gossip/blockproc"
-	"github.com/copyco6628ra/inter/iblockproc"
+	"github.com/copyco6628/gossip/blockproc"
+	"github.com/copyco6628/inter/iblockproc"
 )
 
 type OperaEpochsSealerModule struct{}

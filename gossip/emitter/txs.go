@@ -11,10 +11,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/copyco6628ra/eventcheck/epochcheck"
-	"github.com/copyco6628ra/eventcheck/gaspowercheck"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/eventcheck/epochcheck"
+	"github.com/copyco6628/eventcheck/gaspowercheck"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils"
 )
 
 const (

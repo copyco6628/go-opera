@@ -7,8 +7,8 @@ import (
 	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/opera"
 )
 
 var (

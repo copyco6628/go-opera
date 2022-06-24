@@ -6,7 +6,7 @@ import (
 
 	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/copyco6628ra/utils/concurrent"
+	"github.com/copyco6628/utils/concurrent"
 )
 
 type sortedLastEV []byte

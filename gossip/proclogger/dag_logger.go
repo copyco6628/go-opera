@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/copyco6628/go-opera/inter"
-	"github.com/copyco6628ra/logger"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/logger"
+	"github.com/copyco6628/utils"
 )
 
 func NewLogger() *Logger {

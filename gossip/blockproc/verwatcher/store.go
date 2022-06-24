@@ -3,7 +3,7 @@ package verwatcher
 import (
 	"github.com/copyco6628/lachesis-base/kvdb"
 
-	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628/logger"
 )
 
 // Store is a node persistent storage working over physical key-value database.

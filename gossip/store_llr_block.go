@@ -9,10 +9,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/ibr"
-	"github.com/copyco6628ra/inter/ier"
-	"github.com/copyco6628ra/utils/bitmap"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/ibr"
+	"github.com/copyco6628/inter/ier"
+	"github.com/copyco6628/utils/bitmap"
 )
 
 func (s *Store) SetBlockVotes(bvs inter.LlrSignedBlockVotes) {

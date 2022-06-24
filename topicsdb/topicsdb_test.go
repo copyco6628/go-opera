@@ -14,7 +14,7 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628/logger"
 )
 
 // FindInBlocksAsync returns all log records of block range by pattern. 1st pattern element is an address.

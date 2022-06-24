@@ -11,11 +11,11 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	notify "github.com/ethereum/go-ethereum/event"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/valkeystore"
-	"github.com/copyco6628ra/vecmt"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/valkeystore"
+	"github.com/copyco6628/vecmt"
 )
 
 var (

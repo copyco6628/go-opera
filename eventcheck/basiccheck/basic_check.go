@@ -9,8 +9,8 @@ import (
 	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/inter"
 )
 
 var (

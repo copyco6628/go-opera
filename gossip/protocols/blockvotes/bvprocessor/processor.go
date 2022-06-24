@@ -9,7 +9,7 @@ import (
 	"github.com/copyco6628is-base/utils/datasemaphore"
 	"github.com/copyco6628is-base/utils/workers"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 var (

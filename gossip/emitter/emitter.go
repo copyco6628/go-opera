@@ -15,13 +15,13 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	lru "github.com/hashicorp/golang-lru"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/gossip/emitter/originatedtxs"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/logger"
-	"github.com/copyco6628ra/tracing"
-	"github.com/copyco6628ra/utils/piecefunc"
-	"github.com/copyco6628ra/utils/rate"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/gossip/emitter/originatedtxs"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/logger"
+	"github.com/copyco6628/tracing"
+	"github.com/copyco6628/utils/piecefunc"
+	"github.com/copyco6628/utils/rate"
 )
 
 const (

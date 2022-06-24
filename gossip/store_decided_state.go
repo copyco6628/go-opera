@@ -5,8 +5,8 @@ import (
 	"github.com/copyco6628is-base/inter/pos"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/opera"
 )
 
 const sKey = "s"

@@ -8,7 +8,7 @@ import (
 	"github.com/copyco6628is-base/gossip/basestream/basestreamleecher/basepeerleecher"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/gossip/protocols/blockrecords/brstream"
+	"github.com/copyco6628/gossip/protocols/blockrecords/brstream"
 )
 
 // Leecher is responsible for requesting BRs based on lexicographic BRs streams

@@ -6,7 +6,7 @@ import (
 	"github.com/copyco6628is-base/vecengine"
 	"github.com/copyco6628is-base/vecfc"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 type CreationTimer interface {

@@ -32,8 +32,8 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/copyco6628ra/topicsdb"
-	"github.com/copyco6628ra/utils/adapters/ethdb2kvdb"
+	"github.com/copyco6628/topicsdb"
+	"github.com/copyco6628/utils/adapters/ethdb2kvdb"
 )
 
 func testConfig() Config {

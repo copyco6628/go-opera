@@ -9,7 +9,7 @@ import (
 	"github.com/copyco6628is-base/gossip/basestream/basestreamseeder"
 	"github.com/copyco6628is-base/hash"
 
-	"github.com/copyco6628ra/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628/gossip/protocols/dag/dagstream"
 )
 
 var (

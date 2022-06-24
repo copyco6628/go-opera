@@ -12,8 +12,8 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/copyco6628ra/eventcheck/basiccheck"
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/eventcheck/basiccheck"
+	"github.com/copyco6628/inter"
 )
 
 type LLRBasicCheckTestSuite struct {

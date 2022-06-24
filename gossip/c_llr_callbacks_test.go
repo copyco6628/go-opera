@@ -23,14 +23,14 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/copyco6628ra/eventcheck"
-	"github.com/copyco6628ra/eventcheck/epochcheck"
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/gossip/contract/ballot"
-	"github.com/copyco6628ra/gossip/filters"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/ibr"
-	"github.com/copyco6628ra/inter/ier"
+	"github.com/copyco6628/eventcheck"
+	"github.com/copyco6628/eventcheck/epochcheck"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/gossip/contract/ballot"
+	"github.com/copyco6628/gossip/filters"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/ibr"
+	"github.com/copyco6628/inter/ier"
 )
 
 type IntegrationTestSuite struct {

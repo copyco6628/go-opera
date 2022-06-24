@@ -13,14 +13,14 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/gossip/emitter/mock"
-	"github.com/copyco6628ra/integration/makefakegenesis"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/vecmt"
+	"github.com/copyco6628/gossip/emitter/mock"
+	"github.com/copyco6628/integration/makefakegenesis"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/vecmt"
 )
 
-//go:generate go run github.com/golang/mock/mockgen -package=mock -destination=mock/world.go github.com/copyco6628ra/gossip/emitter External,TxPool,TxSigner,Signer
+//go:generate go run github.com/golang/mock/mockgen -package=mock -destination=mock/world.go github.com/copyco6628/gossip/emitter External,TxPool,TxSigner,Signer
 
 func TestEmitter(t *testing.T) {
 	cfg := DefaultConfig()

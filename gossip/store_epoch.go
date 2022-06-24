@@ -14,7 +14,7 @@ import (
 	"github.com/copyco6628is-base/kvdb/skiperrors"
 	"github.com/copyco6628is-base/kvdb/table"
 
-	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628/logger"
 )
 
 var (

@@ -10,11 +10,11 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 
 	"github.com/copyco6628/go-opera/evmcore"
-	"github.com/copyco6628ra/gossip/blockproc"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/gossip/blockproc"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/utils"
 )
 
 type EVMModule struct{}

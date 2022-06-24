@@ -3,7 +3,7 @@ package heavycheck
 import (
 	"github.com/copyco6628/lachesis-base/inter/dag"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 type EventsOnly struct {

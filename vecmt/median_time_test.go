@@ -13,7 +13,7 @@ import (
 	"github.com/copyco6628is-base/inter/pos"
 	"github.com/copyco6628is-base/kvdb/memorydb"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 func TestMedianTimeOnIndex(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 // GetEvent returns Lachesis event by hash or short ID.

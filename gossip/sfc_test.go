@@ -36,17 +36,17 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/gossip/contract/driver100"
-	"github.com/copyco6628ra/gossip/contract/driverauth100"
-	"github.com/copyco6628ra/gossip/contract/netinit100"
-	"github.com/copyco6628ra/gossip/contract/sfc100"
-	"github.com/copyco6628ra/logger"
-	"github.com/copyco6628ra/opera/contracts/driver"
-	"github.com/copyco6628ra/opera/contracts/driverauth"
-	"github.com/copyco6628ra/opera/contracts/evmwriter"
-	"github.com/copyco6628ra/opera/contracts/netinit"
-	"github.com/copyco6628ra/opera/contracts/sfc"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/gossip/contract/driver100"
+	"github.com/copyco6628/gossip/contract/driverauth100"
+	"github.com/copyco6628/gossip/contract/netinit100"
+	"github.com/copyco6628/gossip/contract/sfc100"
+	"github.com/copyco6628/logger"
+	"github.com/copyco6628/opera/contracts/driver"
+	"github.com/copyco6628/opera/contracts/driverauth"
+	"github.com/copyco6628/opera/contracts/evmwriter"
+	"github.com/copyco6628/opera/contracts/netinit"
+	"github.com/copyco6628/opera/contracts/sfc"
+	"github.com/copyco6628/utils"
 )
 
 func TestSFC(t *testing.T) {

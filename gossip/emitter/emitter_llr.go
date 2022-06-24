@@ -6,9 +6,9 @@ import (
 	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/eventcheck/basiccheck"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils/piecefunc"
+	"github.com/copyco6628/eventcheck/basiccheck"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils/piecefunc"
 )
 
 var emptyLlrBlockVotes = inter.LlrBlockVotes{

@@ -11,15 +11,15 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/copyco6628ra/gossip/blockproc"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/drivertype"
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/inter/validatorpk"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/opera/contracts/driver"
-	"github.com/copyco6628ra/opera/contracts/driver/drivercall"
-	"github.com/copyco6628ra/opera/contracts/driver/driverpos"
+	"github.com/copyco6628/gossip/blockproc"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/drivertype"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/inter/validatorpk"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/opera/contracts/driver"
+	"github.com/copyco6628/opera/contracts/driver/drivercall"
+	"github.com/copyco6628/opera/contracts/driver/driverpos"
 )
 
 const (

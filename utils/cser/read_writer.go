@@ -5,7 +5,7 @@ import (
 	"math/big"
 
 	"github.com/copyco6628/go-opera/utils/bits"
-	"github.com/copyco6628ra/utils/fast"
+	"github.com/copyco6628/utils/fast"
 )
 
 var (

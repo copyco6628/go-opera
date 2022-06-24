@@ -11,10 +11,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/copyco6628ra/eventcheck/basiccheck"
-	"github.com/copyco6628ra/eventcheck/epochcheck"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/validatorpk"
+	"github.com/copyco6628/eventcheck/basiccheck"
+	"github.com/copyco6628/eventcheck/epochcheck"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/validatorpk"
 )
 
 var (

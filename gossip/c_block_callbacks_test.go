@@ -9,8 +9,8 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/logger"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/logger"
+	"github.com/copyco6628/utils"
 )
 
 func TestConsensusCallback(t *testing.T) {

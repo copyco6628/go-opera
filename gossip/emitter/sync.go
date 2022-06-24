@@ -7,8 +7,8 @@ import (
 	"github.com/copyco6628/lachesis-base/emitter/doublesign"
 	"github.com/copyco6628is-base/hash"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils/errlock"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils/errlock"
 )
 
 type syncStatus struct {

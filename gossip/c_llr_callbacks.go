@@ -9,11 +9,11 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/copyco6628ra/eventcheck"
-	"github.com/copyco6628ra/gossip/evmstore"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/ibr"
-	"github.com/copyco6628ra/inter/ier"
+	"github.com/copyco6628/eventcheck"
+	"github.com/copyco6628/gossip/evmstore"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/ibr"
+	"github.com/copyco6628/inter/ier"
 )
 
 var errValidatorNotExist = errors.New("validator does not exist")

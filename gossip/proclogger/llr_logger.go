@@ -7,11 +7,11 @@ import (
 	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/ibr"
-	"github.com/copyco6628ra/inter/ier"
-	"github.com/copyco6628ra/logger"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/ibr"
+	"github.com/copyco6628/inter/ier"
+	"github.com/copyco6628/logger"
+	"github.com/copyco6628/utils"
 )
 
 type dagSum struct {

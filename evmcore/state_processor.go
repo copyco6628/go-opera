@@ -28,7 +28,7 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 
 	"github.com/copyco6628/go-opera/utils/signers/gsignercache"
-	"github.com/copyco6628ra/utils/signers/internaltx"
+	"github.com/copyco6628/utils/signers/internaltx"
 )
 
 // StateProcessor is a basic Processor, which takes care of transitioning

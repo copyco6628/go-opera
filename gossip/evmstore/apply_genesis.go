@@ -3,7 +3,7 @@ package evmstore
 import (
 	"github.com/copyco6628/lachesis-base/kvdb"
 
-	"github.com/copyco6628ra/opera/genesis"
+	"github.com/copyco6628/opera/genesis"
 )
 
 // ApplyGenesis writes initial state.

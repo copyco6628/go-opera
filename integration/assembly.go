@@ -18,10 +18,10 @@ import (
 	"github.com/ethereum/go-ethereum/metrics"
 	"github.com/status-im/keycard-go/hexutils"
 
-	"github.com/copyco6628ra/gossip"
-	"github.com/copyco6628ra/opera/genesis"
-	"github.com/copyco6628ra/utils/adapters/vecmt2dagidx"
-	"github.com/copyco6628ra/vecmt"
+	"github.com/copyco6628/gossip"
+	"github.com/copyco6628/opera/genesis"
+	"github.com/copyco6628/utils/adapters/vecmt2dagidx"
+	"github.com/copyco6628/vecmt"
 )
 
 var (

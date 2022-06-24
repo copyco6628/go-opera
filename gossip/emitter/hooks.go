@@ -8,8 +8,8 @@ import (
 	"github.com/copyco6628is-base/inter/pos"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils/adapters/vecmt2dagidx"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils/adapters/vecmt2dagidx"
 )
 
 // OnNewEpoch should be called after each epoch change, and on startup

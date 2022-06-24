@@ -4,7 +4,7 @@ import (
 	"github.com/copyco6628/lachesis-base/emitter/ancestor"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/utils/piecefunc"
+	"github.com/copyco6628/utils/piecefunc"
 )
 
 var (

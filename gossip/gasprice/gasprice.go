@@ -27,8 +27,8 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	lru "github.com/hashicorp/golang-lru"
 
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/utils/piecefunc"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/utils/piecefunc"
 
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/params"

@@ -8,7 +8,7 @@ import (
 	"github.com/copyco6628is-base/gossip/basestream/basestreamleecher/basepeerleecher"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/gossip/protocols/epochpacks/epstream"
+	"github.com/copyco6628/gossip/protocols/epochpacks/epstream"
 )
 
 // Leecher is responsible for requesting EPs based on lexicographic EPs streams

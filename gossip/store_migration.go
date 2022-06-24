@@ -12,11 +12,11 @@ import (
 	"github.com/copyco6628is-base/lachesis"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/utils/concurrent"
-	"github.com/copyco6628ra/utils/migration"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/utils/concurrent"
+	"github.com/copyco6628/utils/migration"
 )
 
 func isEmptyDB(db kvdb.Iteratee) bool {

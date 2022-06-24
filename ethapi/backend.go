@@ -33,9 +33,9 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
 )
 
 // PeerProgress is synchronization status of a peer

@@ -7,8 +7,8 @@ import (
 	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/copyco6628ra/inter/validatorpk"
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/inter/validatorpk"
+	"github.com/copyco6628/opera"
 )
 
 // EmitIntervals is the configuration of emit intervals.

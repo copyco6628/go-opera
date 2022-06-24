@@ -9,7 +9,7 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/opera"
 )
 
 type fakeTx struct {

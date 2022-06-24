@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/copyco6628/lachesis-base v0.0.0-20220103160934-6b4931c60582
+	//github.com/Fantom-foundation/lachesis-base v0.0.0-20210721130657-54ad3c8a18c1
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/certifi/gocertifi v0.0.0-20191021191039-0944d244cd40 // indirect
 	github.com/cespare/cp v1.1.1
@@ -48,4 +49,4 @@ replace github.com/ethereum/go-ethereum => github.com/copyco6628/go-ethereum v1.
 
 replace github.com/dvyukov/go-fuzz => github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f
 
-replace github.com/copyco6628/lachesis-base => /home/solana/forkopera/lachesis-base
+replace github.com/copyco6628/lachesis-base => /home/solana/copyco6628/lachesis-base

@@ -8,10 +8,10 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 
-	"github.com/copyco6628ra/eventcheck/basiccheck"
-	"github.com/copyco6628ra/eventcheck/heavycheck"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/logger"
+	"github.com/copyco6628/eventcheck/basiccheck"
+	"github.com/copyco6628/eventcheck/heavycheck"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/logger"
 )
 
 func copyBvs(bvs inter.LlrSignedBlockVotes) inter.LlrSignedBlockVotes {

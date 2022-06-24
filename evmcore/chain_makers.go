@@ -29,7 +29,7 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 
 	"github.com/copyco6628/go-opera/inter"
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/opera"
 )
 
 // BlockGen creates blocks for testing.

@@ -10,9 +10,9 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/gossip/gasprice"
-	"github.com/copyco6628ra/opera"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/gossip/gasprice"
+	"github.com/copyco6628/opera"
 )
 
 type EvmStateReader struct {

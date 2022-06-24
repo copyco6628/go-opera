@@ -8,7 +8,7 @@ import (
 	"github.com/copyco6628is-base/inter/idx"
 	"github.com/copyco6628is-base/inter/pos"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 // medianTimeIndex is a handy index for the MedianTime() func

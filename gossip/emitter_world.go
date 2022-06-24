@@ -7,11 +7,11 @@ import (
 	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/copyco6628ra/gossip/emitter"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils/wgmutex"
-	"github.com/copyco6628ra/valkeystore"
-	"github.com/copyco6628ra/vecmt"
+	"github.com/copyco6628/gossip/emitter"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils/wgmutex"
+	"github.com/copyco6628/valkeystore"
+	"github.com/copyco6628/vecmt"
 )
 
 type emitterWorldProc struct {

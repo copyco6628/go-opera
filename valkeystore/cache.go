@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/copyco6628/go-opera/inter/validatorpk"
-	"github.com/copyco6628ra/valkeystore/encryption"
+	"github.com/copyco6628/valkeystore/encryption"
 )
 
 var (

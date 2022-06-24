@@ -2,7 +2,7 @@ package cser
 
 import (
 	"github.com/copyco6628/go-opera/utils/bits"
-	"github.com/copyco6628ra/utils/fast"
+	"github.com/copyco6628/utils/fast"
 )
 
 func MarshalBinaryAdapter(marshalCser func(*Writer) error) ([]byte, error) {

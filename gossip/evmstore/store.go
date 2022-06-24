@@ -20,12 +20,12 @@ import (
 	"github.com/ethereum/go-ethereum/trie"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/logger"
-	"github.com/copyco6628ra/topicsdb"
-	"github.com/copyco6628ra/utils/adapters/kvdb2ethdb"
-	"github.com/copyco6628ra/utils/rlpstore"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/logger"
+	"github.com/copyco6628/topicsdb"
+	"github.com/copyco6628/utils/adapters/kvdb2ethdb"
+	"github.com/copyco6628/utils/rlpstore"
 )
 
 const nominalSize uint = 1

@@ -7,8 +7,8 @@ import (
 	"github.com/copyco6628is-base/inter/idx"
 	"github.com/copyco6628is-base/inter/pos"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/utils/piecefunc"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/utils/piecefunc"
 )
 
 func scalarUpdMetric(diff idx.Event, weight pos.Weight, totalWeight pos.Weight) ancestor.Metric {

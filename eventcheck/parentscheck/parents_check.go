@@ -5,7 +5,7 @@ import (
 
 	base "github.com/copyco6628/lachesis-base/eventcheck/parentscheck"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 var (

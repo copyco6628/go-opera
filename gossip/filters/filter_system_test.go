@@ -33,9 +33,9 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/gossip/evmstore"
-	"github.com/copyco6628ra/topicsdb"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/gossip/evmstore"
+	"github.com/copyco6628/topicsdb"
 )
 
 type testBackend struct {

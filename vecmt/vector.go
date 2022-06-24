@@ -6,7 +6,7 @@ import (
 	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/copyco6628is-base/vecfc"
 
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/inter"
 )
 
 /*

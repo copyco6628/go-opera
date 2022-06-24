@@ -6,7 +6,7 @@ import (
 	"github.com/copyco6628/lachesis-base/common/bigendian"
 	"github.com/copyco6628is-base/kvdb"
 
-	"github.com/copyco6628ra/utils/ioread"
+	"github.com/copyco6628/utils/ioread"
 )
 
 func Write(writer io.Writer, it kvdb.Iterator) error {

@@ -47,11 +47,11 @@ import (
 	"github.com/ethereum/go-ethereum/trie"
 	"github.com/tyler-smith/go-bip39"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/gossip/gasprice"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/utils/signers/gsignercache"
-	"github.com/copyco6628ra/utils/signers/internaltx"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/gossip/gasprice"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/utils/signers/gsignercache"
+	"github.com/copyco6628/utils/signers/internaltx"
 )
 
 var (

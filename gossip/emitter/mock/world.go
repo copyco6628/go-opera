@@ -5,11 +5,11 @@
 package mock
 
 import (
-	evmcore "github.com/copyco6628ra/evmcore"
-	inter "github.com/copyco6628ra/inter"
-	validatorpk "github.com/copyco6628ra/inter/validatorpk"
-	opera "github.com/copyco6628ra/opera"
-	vecmt "github.com/copyco6628ra/vecmt"
+	evmcore "github.com/copyco6628/evmcore"
+	inter "github.com/copyco6628/inter"
+	validatorpk "github.com/copyco6628/inter/validatorpk"
+	opera "github.com/copyco6628/opera"
+	vecmt "github.com/copyco6628/vecmt"
 	hash "github.com/copyco6628is-base/hash"
 	idx "github.com/copyco6628is-base/inter/idx"
 	pos "github.com/copyco6628is-base/inter/pos"

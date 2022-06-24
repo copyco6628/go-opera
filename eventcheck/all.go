@@ -2,11 +2,11 @@ package eventcheck
 
 import (
 	"github.com/copyco6628/go-opera/eventcheck/basiccheck"
-	"github.com/copyco6628ra/eventcheck/epochcheck"
-	"github.com/copyco6628ra/eventcheck/gaspowercheck"
-	"github.com/copyco6628ra/eventcheck/heavycheck"
-	"github.com/copyco6628ra/eventcheck/parentscheck"
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/eventcheck/epochcheck"
+	"github.com/copyco6628/eventcheck/gaspowercheck"
+	"github.com/copyco6628/eventcheck/heavycheck"
+	"github.com/copyco6628/eventcheck/parentscheck"
+	"github.com/copyco6628/inter"
 )
 
 // Checkers is collection of all the checkers

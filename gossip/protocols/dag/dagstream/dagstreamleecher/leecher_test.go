@@ -11,7 +11,7 @@ import (
 	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/copyco6628is-base/inter/idx"
 
-	"github.com/copyco6628ra/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628/gossip/protocols/dag/dagstream"
 )
 
 func TestLeecherNoDeadlocks(t *testing.T) {

@@ -11,12 +11,12 @@ import (
 	"github.com/copyco6628is-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/copyco6628ra/eventcheck"
-	"github.com/copyco6628ra/eventcheck/epochcheck"
-	"github.com/copyco6628ra/gossip/emitter"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/utils/concurrent"
+	"github.com/copyco6628/eventcheck"
+	"github.com/copyco6628/eventcheck/epochcheck"
+	"github.com/copyco6628/gossip/emitter"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/utils/concurrent"
 )
 
 var (

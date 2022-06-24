@@ -18,14 +18,14 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/metrics"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/gossip/blockproc/verwatcher"
-	"github.com/copyco6628ra/gossip/emitter"
-	"github.com/copyco6628ra/gossip/evmstore"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/utils"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/gossip/blockproc/verwatcher"
+	"github.com/copyco6628/gossip/emitter"
+	"github.com/copyco6628/gossip/evmstore"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/utils"
 )
 
 var (

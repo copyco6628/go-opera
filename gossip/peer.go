@@ -17,11 +17,11 @@ import (
 	"github.com/ethereum/go-ethereum/p2p"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/copyco6628ra/gossip/protocols/blockrecords/brstream"
-	"github.com/copyco6628ra/gossip/protocols/blockvotes/bvstream"
-	"github.com/copyco6628ra/gossip/protocols/dag/dagstream"
-	"github.com/copyco6628ra/gossip/protocols/epochpacks/epstream"
-	"github.com/copyco6628ra/inter"
+	"github.com/copyco6628/gossip/protocols/blockrecords/brstream"
+	"github.com/copyco6628/gossip/protocols/blockvotes/bvstream"
+	"github.com/copyco6628/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628/gossip/protocols/epochpacks/epstream"
+	"github.com/copyco6628/inter"
 )
 
 var (

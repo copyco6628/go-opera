@@ -15,12 +15,12 @@ import (
 	"github.com/ethereum/go-ethereum/p2p"
 	"github.com/ethereum/go-ethereum/p2p/enode"
 
-	"github.com/copyco6628ra/evmcore"
-	"github.com/copyco6628ra/integration/makefakegenesis"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/opera"
-	"github.com/copyco6628ra/utils"
-	"github.com/copyco6628ra/utils/signers/gsignercache"
+	"github.com/copyco6628/evmcore"
+	"github.com/copyco6628/integration/makefakegenesis"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/opera"
+	"github.com/copyco6628/utils"
+	"github.com/copyco6628/utils/signers/gsignercache"
 )
 
 const (

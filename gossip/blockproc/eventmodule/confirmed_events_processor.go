@@ -2,8 +2,8 @@ package eventmodule
 
 import (
 	"github.com/copyco6628/go-opera/gossip/blockproc"
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iblockproc"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iblockproc"
 )
 
 type ValidatorEventsModule struct{}

@@ -5,9 +5,9 @@ import (
 
 	"github.com/copyco6628/lachesis-base/hash"
 
-	"github.com/copyco6628ra/inter/ibr"
-	"github.com/copyco6628ra/inter/ier"
-	"github.com/copyco6628ra/opera/genesis"
+	"github.com/copyco6628/inter/ibr"
+	"github.com/copyco6628/inter/ier"
+	"github.com/copyco6628/opera/genesis"
 )
 
 // ApplyGenesis writes initial state.

@@ -9,9 +9,9 @@ import (
 	"github.com/copyco6628is-base/utils/datasemaphore"
 	"github.com/copyco6628is-base/utils/workers"
 
-	"github.com/copyco6628ra/inter"
-	"github.com/copyco6628ra/inter/iep"
-	"github.com/copyco6628ra/inter/ier"
+	"github.com/copyco6628/inter"
+	"github.com/copyco6628/inter/iep"
+	"github.com/copyco6628/inter/ier"
 )
 
 var (

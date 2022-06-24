@@ -9,7 +9,7 @@ import (
 	"github.com/copyco6628is-base/gossip/basestream"
 	"github.com/copyco6628is-base/gossip/basestream/basestreamseeder"
 
-	"github.com/copyco6628ra/gossip/protocols/epochpacks/epstream"
+	"github.com/copyco6628/gossip/protocols/epochpacks/epstream"
 )
 
 var (
