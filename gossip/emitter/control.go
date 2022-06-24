@@ -3,12 +3,12 @@ package emitter
 import (
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/emitter/ancestor"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/copyco6628/lachesis-base/emitter/ancestor"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/pos"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/utils/piecefunc"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/utils/piecefunc"
 )
 
 func scalarUpdMetric(diff idx.Event, weight pos.Weight, totalWeight pos.Weight) ancestor.Metric {

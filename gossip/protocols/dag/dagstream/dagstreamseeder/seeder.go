@@ -5,11 +5,11 @@ import (
 
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream"
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamseeder"
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/gossip/basestream"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamseeder"
+	"github.com/copyco6628/lachesis-base/hash"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628/go-opera/gossip/protocols/dag/dagstream"
 )
 
 var (

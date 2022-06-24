@@ -3,17 +3,17 @@ package gossip
 import (
 	"errors"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/pos"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck"
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
+	"github.com/copyco6628/go-opera/eventcheck"
+	"github.com/copyco6628/go-opera/gossip/evmstore"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/inter/ibr"
+	"github.com/copyco6628/go-opera/inter/ier"
 )
 
 var errValidatorNotExist = errors.New("validator does not exist")

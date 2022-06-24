@@ -5,20 +5,20 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Fantom-foundation/lachesis-base/abft"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/leveldb"
-	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
+	"github.com/copyco6628/lachesis-base/abft"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/kvdb/leveldb"
+	"github.com/copyco6628/lachesis-base/utils/cachescale"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/integration/makefakegenesis"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/utils"
-	"github.com/Fantom-foundation/go-opera/vecmt"
+	"github.com/copyco6628/go-opera/gossip"
+	"github.com/copyco6628/go-opera/integration/makefakegenesis"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/utils"
+	"github.com/copyco6628/go-opera/vecmt"
 )
 
 func BenchmarkFlushDBs(b *testing.B) {

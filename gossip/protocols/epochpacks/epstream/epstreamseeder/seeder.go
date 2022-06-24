@@ -3,13 +3,13 @@ package epstreamseeder
 import (
 	"errors"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream"
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamseeder"
+	"github.com/copyco6628/lachesis-base/gossip/basestream"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamseeder"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/epochpacks/epstream"
+	"github.com/copyco6628/go-opera/gossip/protocols/epochpacks/epstream"
 )
 
 var (

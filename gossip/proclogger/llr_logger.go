@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/inter/ibr"
+	"github.com/copyco6628/go-opera/inter/ier"
+	"github.com/copyco6628/go-opera/logger"
+	"github.com/copyco6628/go-opera/utils"
 )
 
 type dagSum struct {

@@ -8,7 +8,7 @@ opera:
 	GIT_DATE=`git log -1 --date=short --pretty=format:%ct 2>/dev/null || echo ""` && \
 	GOPROXY=$(GOPROXY) \
 	go build \
-	    -ldflags "-s -w -X github.com/Fantom-foundation/go-opera/cmd/opera/launcher.gitCommit=$${GIT_COMMIT} -X github.com/Fantom-foundation/go-opera/cmd/opera/launcher.gitDate=$${GIT_DATE}" \
+	    -ldflags "-s -w -X github.com/copyco6628/go-opera/cmd/opera/launcher.gitCommit=$${GIT_COMMIT} -X github.com/copyco6628/go-opera/cmd/opera/launcher.gitDate=$${GIT_DATE}" \
 	    -o build/opera \
 	    ./cmd/opera
 

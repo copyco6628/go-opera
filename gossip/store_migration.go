@@ -5,18 +5,18 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
-	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
-	"github.com/Fantom-foundation/lachesis-base/lachesis"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/kvdb"
+	"github.com/copyco6628/lachesis-base/kvdb/table"
+	"github.com/copyco6628/lachesis-base/lachesis"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/utils/concurrent"
-	"github.com/Fantom-foundation/go-opera/utils/migration"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/inter/iblockproc"
+	"github.com/copyco6628/go-opera/opera"
+	"github.com/copyco6628/go-opera/utils/concurrent"
+	"github.com/copyco6628/go-opera/utils/migration"
 )
 
 func isEmptyDB(db kvdb.Iteratee) bool {

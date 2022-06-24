@@ -3,15 +3,15 @@ package gossip
 import (
 	"testing"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/go-opera/eventcheck/heavycheck"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/logger"
+	"github.com/copyco6628/go-opera/eventcheck/basiccheck"
+	"github.com/copyco6628/go-opera/eventcheck/heavycheck"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/logger"
 )
 
 func copyBvs(bvs inter.LlrSignedBlockVotes) inter.LlrSignedBlockVotes {

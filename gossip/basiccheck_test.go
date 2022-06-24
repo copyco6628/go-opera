@@ -6,14 +6,14 @@ import (
 	"math/big"
 	"testing"
 
-	lbasiccheck "github.com/Fantom-foundation/lachesis-base/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	lbasiccheck "github.com/copyco6628/lachesis-base/eventcheck/basiccheck"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628/go-opera/eventcheck/basiccheck"
+	"github.com/copyco6628/go-opera/inter"
 )
 
 type LLRBasicCheckTestSuite struct {

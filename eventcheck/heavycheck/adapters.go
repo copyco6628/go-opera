@@ -1,9 +1,9 @@
 package heavycheck
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/copyco6628/lachesis-base/inter/dag"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628/go-opera/inter"
 )
 
 type EventsOnly struct {

@@ -8,17 +8,17 @@ import (
 	"io"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/common/bigendian"
+	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/status-im/keycard-go/hexutils"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore/filelog"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore/fileshash"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore/readersmap"
-	"github.com/Fantom-foundation/go-opera/utils/ioread"
+	"github.com/copyco6628/go-opera/opera/genesis"
+	"github.com/copyco6628/go-opera/opera/genesisstore/filelog"
+	"github.com/copyco6628/go-opera/opera/genesisstore/fileshash"
+	"github.com/copyco6628/go-opera/opera/genesisstore/readersmap"
+	"github.com/copyco6628/go-opera/utils/ioread"
 )
 
 var (

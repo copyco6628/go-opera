@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb/memorydb"
+	"github.com/copyco6628/lachesis-base/kvdb/memorydb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/rawdb"
 	"github.com/ethereum/go-ethereum/core/state"
@@ -33,9 +33,9 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore"
-	"github.com/Fantom-foundation/go-opera/topicsdb"
+	"github.com/copyco6628/go-opera/evmcore"
+	"github.com/copyco6628/go-opera/gossip/evmstore"
+	"github.com/copyco6628/go-opera/topicsdb"
 )
 
 type testBackend struct {

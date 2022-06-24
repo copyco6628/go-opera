@@ -4,13 +4,13 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher"
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamleecher"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/dag"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/dag/dagstream"
+	"github.com/copyco6628/go-opera/gossip/protocols/dag/dagstream"
 )
 
 // Leecher is responsible for requesting events based on lexicographic event streams

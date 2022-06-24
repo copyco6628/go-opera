@@ -3,12 +3,12 @@ package emitter
 import (
 	"math/rand"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/utils/piecefunc"
+	"github.com/copyco6628/go-opera/eventcheck/basiccheck"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/utils/piecefunc"
 )
 
 var emptyLlrBlockVotes = inter.LlrBlockVotes{

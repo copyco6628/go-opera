@@ -1,14 +1,14 @@
 package gossip
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/gaspowercheck"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/utils/concurrent"
+	"github.com/copyco6628/go-opera/eventcheck/gaspowercheck"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/opera"
+	"github.com/copyco6628/go-opera/utils/concurrent"
 )
 
 type GPOBackend struct {

@@ -4,11 +4,11 @@ import (
 	"github.com/pkg/errors"
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/integration/makefakegenesis"
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
+	"github.com/copyco6628/go-opera/gossip/emitter"
+	"github.com/copyco6628/go-opera/integration/makefakegenesis"
+	"github.com/copyco6628/go-opera/inter/validatorpk"
 )
 
 var validatorIDFlag = cli.UintFlag{

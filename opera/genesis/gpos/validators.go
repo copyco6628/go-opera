@@ -1,11 +1,11 @@
 package gpos
 
 import (
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628/go-opera/inter"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/go-opera/inter/validatorpk"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 )
 
 type (

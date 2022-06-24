@@ -14,8 +14,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/cmd/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
@@ -23,12 +23,12 @@ import (
 	"github.com/status-im/keycard-go/hexutils"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/integration"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
-	"github.com/Fantom-foundation/go-opera/utils/ioread"
+	"github.com/copyco6628/go-opera/gossip"
+	"github.com/copyco6628/go-opera/gossip/emitter"
+	"github.com/copyco6628/go-opera/integration"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/opera/genesisstore"
+	"github.com/copyco6628/go-opera/utils/ioread"
 )
 
 func importEvm(ctx *cli.Context) error {

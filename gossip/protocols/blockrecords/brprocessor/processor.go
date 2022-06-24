@@ -4,12 +4,12 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/utils/datasemaphore"
-	"github.com/Fantom-foundation/lachesis-base/utils/workers"
+	"github.com/copyco6628/lachesis-base/inter/dag"
+	"github.com/copyco6628/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/utils/datasemaphore"
+	"github.com/copyco6628/lachesis-base/utils/workers"
 
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
+	"github.com/copyco6628/go-opera/inter/ibr"
 )
 
 var (

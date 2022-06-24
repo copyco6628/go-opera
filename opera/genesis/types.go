@@ -1,10 +1,10 @@
 package genesis
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/hash"
 
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
+	"github.com/copyco6628/go-opera/inter/ibr"
+	"github.com/copyco6628/go-opera/inter/ier"
 )
 
 type (

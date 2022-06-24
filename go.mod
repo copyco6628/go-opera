@@ -1,9 +1,9 @@
-module github.com/Fantom-foundation/go-opera
+module github.com/copyco6628/go-opera
 
 go 1.14
 
 require (
-	github.com/Fantom-foundation/lachesis-base v0.0.0-20220103160934-6b4931c60582
+	github.com/copyco6628/lachesis-base v0.0.0-20220103160934-6b4931c60582
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/certifi/gocertifi v0.0.0-20191021191039-0944d244cd40 // indirect
 	github.com/cespare/cp v1.1.1
@@ -44,6 +44,6 @@ require (
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
 
-replace github.com/ethereum/go-ethereum => github.com/Fantom-foundation/go-ethereum v1.10.8-ftm-rc4
+replace github.com/ethereum/go-ethereum => github.com/copyco6628/go-ethereum v1.10.8-ftm-rc4
 
 replace github.com/dvyukov/go-fuzz => github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f

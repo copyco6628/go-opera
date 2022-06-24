@@ -4,12 +4,12 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher"
-	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamleecher"
+	"github.com/copyco6628/lachesis-base/gossip/basestream/basestreamleecher/basepeerleecher"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/blockvotes/bvstream"
+	"github.com/copyco6628/go-opera/gossip/protocols/blockvotes/bvstream"
 )
 
 // Leecher is responsible for requesting BVs based on lexicographic BVs streams

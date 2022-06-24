@@ -3,9 +3,9 @@ package proclogger
 import (
 	"time"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/copyco6628/go-opera/inter"
+	"github.com/copyco6628/go-opera/logger"
+	"github.com/copyco6628/go-opera/utils"
 )
 
 func NewLogger() *Logger {

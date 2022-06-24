@@ -5,12 +5,12 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/copyco6628/go-opera/logger"
+	"github.com/copyco6628/go-opera/utils"
 )
 
 func TestConsensusCallback(t *testing.T) {

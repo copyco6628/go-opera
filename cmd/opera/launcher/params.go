@@ -1,13 +1,13 @@
 package launcher
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/hash"
 	"github.com/ethereum/go-ethereum/p2p/enode"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
+	"github.com/copyco6628/go-opera/opera"
+	"github.com/copyco6628/go-opera/opera/genesis"
+	"github.com/copyco6628/go-opera/opera/genesisstore"
 )
 
 var (

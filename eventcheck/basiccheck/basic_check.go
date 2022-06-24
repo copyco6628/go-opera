@@ -4,13 +4,13 @@ import (
 	"errors"
 	"math"
 
-	base "github.com/Fantom-foundation/lachesis-base/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	base "github.com/copyco6628/lachesis-base/eventcheck/basiccheck"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/copyco6628/go-opera/evmcore"
+	"github.com/copyco6628/go-opera/inter"
 )
 
 var (

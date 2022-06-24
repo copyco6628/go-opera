@@ -3,10 +3,10 @@ package eventcheck
 import (
 	"errors"
 
-	base "github.com/Fantom-foundation/lachesis-base/eventcheck"
+	base "github.com/copyco6628/lachesis-base/eventcheck"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/epochcheck"
-	"github.com/Fantom-foundation/go-opera/eventcheck/heavycheck"
+	"github.com/copyco6628/go-opera/eventcheck/epochcheck"
+	"github.com/copyco6628/go-opera/eventcheck/heavycheck"
 )
 
 var (

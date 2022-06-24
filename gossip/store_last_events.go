@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/copyco6628/lachesis-base/hash"
+	"github.com/copyco6628/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/utils/concurrent"
+	"github.com/copyco6628/go-opera/utils/concurrent"
 )
 
 type sortedLastEvent []byte
