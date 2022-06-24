@@ -3,11 +3,11 @@ module github.com/copyco6628/go-opera
 go 1.14
 
 require (
-	github.com/copyco6628/lachesis-base v0.0.0-20220103160934-6b4931c60582
+	//github.com/copyco6628/lachesis-base v0.0.0-20220103160934-6b4931c60582
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/certifi/gocertifi v0.0.0-20191021191039-0944d244cd40 // indirect
 	github.com/cespare/cp v1.1.1
-	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
+	github.com/copyco6628/lachesis-base v0.0.0-20220103160934-6b4931c60582
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v1.7.1
 	github.com/docker/docker v1.13.1
@@ -18,7 +18,7 @@ require (
 	github.com/gballet/go-libpcsclite v0.0.0-20191108122812-4678299bea08 // indirect
 	github.com/getsentry/raven-go v0.2.0 // indirect
 	github.com/go-kit/kit v0.9.0 // indirect
-	github.com/golang/mock v1.3.1
+	github.com/golang/mock v1.6.0
 	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
 	github.com/holiman/bloomfilter/v2 v2.0.3
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
@@ -47,3 +47,5 @@ require (
 replace github.com/ethereum/go-ethereum => github.com/copyco6628/go-ethereum v1.10.8-ftm-rc4
 
 replace github.com/dvyukov/go-fuzz => github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f
+
+replace github.com/copyco6628/lachesis-base => /home/solana/copyco6628/lachesis-base
